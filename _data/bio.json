@@ -9,7 +9,8 @@
     "summary": "I am studying for a B.B.A. in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "kmcmoor", "url": "http://github.com/kmcmoor" }
+      { "network": "github", "username": "kmcmoor", "url": "http://github.com/kmcmoor" },
+      { "network": "linkedin", "username": "Kimberly McMoore", "url": "https://www.linkedin.com/in/kimberly-mcmoore-33b357265/" }
     ]
   },
   "interests": [
