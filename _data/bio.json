@@ -14,8 +14,8 @@
     ]
   },
   "interests": [
+    { "name": "Adventuring" },
     { "name": "Reading" },
-    { "name": "Bike riding" },
     { "name": "Information Technology" },
     { "name": "Swimming" },
     { "name": "Traveling" }
