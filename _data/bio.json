@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kimberly McMoore",
     "label": "Shidler Undergraduate",
-    "picture": "img/IMG_0709 - Copy.jpg",
+    "picture": "https://github.com/kmcmoor.png",
     "email": "kmcmoor@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://kmcmoor.github.io",
@@ -27,15 +27,15 @@
       "studyType": "B.B.A",
       "startDate": "2021-08-21",
       "endDate": "2023-05-06",
-      "courses": [
-      ]
-       "institution": "University of Hawaii, Honolulu, HI",
+      "courses": []
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Management Information Systems (expected Spring, 2025)",
       "studyType": "B.B.A",
       "startDate": "2023-08-21",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -46,8 +46,10 @@
       "startDate": "2023-02-01",
       "endDate": "2023-04-01",
       "highlights": [
-        "Applied knowledge of accounting and business to prepare and reconcile tax returns               using Intuit Lacerte Software",
-        "Performed administrative work, refining skills in written and oral communication as             well as problem solving"
+        "Applied knowledge of accounting and business to prepare and reconcile tax returns using Intuit Lacerte Software",
+        "Performed administrative work, refining skills in written and oral communication as well as problem solving"
+      ]
+    }
   ],
   "references": [
     {
