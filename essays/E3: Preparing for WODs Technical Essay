@@ -11,7 +11,10 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-The last WOD I did was the WOD for Invoice1, where I used Javascript expressions to create a sales receipt. Here is the link to my WOD page:
+The last WOD I did was the WOD for Invoice1, where I used Javascript expressions to create a sales receipt. Here is the link to my WOD page: https://github.com/kmcmoor/ITM352_S24_repo/blob/main/WODs/Invoice1/invoice.html
+
 Performing this WOD took a lot of time as through several attempts, I could not meet the DNF cutoff time. In my first attempt, I spent a lot of time trying to figure out how to add HTML to create a table, however I figured out after watching the screencast, to inspect the table on the page instead, and copy the code from there. Then, on my second and third attempts, I found that although changing the names and values (in the 2nd and 3rd steps) was easy, I still struggled with remembering the computations and doing them in a timely manner. On my fourth attempt, I had almost finished the WOD when I realized I could not get my file to open in Live Server, this took the rest of my time, only to find out afterwards that it was because of a silly mistake, I did not insert a “;” to close one of my lines of code! On my fifth attempt I finally finished the WOD.
+
 To prepare for this WOD I completed the readings and screencast lecture, as well as reviewed the instructions for this WOD so I knew what to look for, which is similar to the WOD’s I’ve done before this.
+
 For the next WOD, I will not spend as much time on something I am stuck on, and will instead research either through the readings and screencast or using Google to help me find a solution to my problem!
