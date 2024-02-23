@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="E3: Preparing for WODs Technical Essay | Kimberly McMoore | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/kmcmoor.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Kimberly McMoore | Professional Portfolio">
+    <meta property="og:url" content="https://kmcmoor.github.io/essays/E3:%20Preparing%20for%20WODs%20Technical%20Essay">
+    <meta property="og:title" content="E3: Preparing for WODs Technical Essay | Kimberly McMoore | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/kmcmoor.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>E3: Preparing for WODs Technical Essay | Kimberly McMoore | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Kimberly McMoore</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">E3: Preparing for WODs Technical Essay</h1>
+  <span class="date">22 Feb 2024</span>
+  <hr>
+  <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
+The last WOD I did was the WOD for Invoice1, where I used Javascript expressions to create a sales receipt. Here is the link to my WOD page: https://github.com/kmcmoor/ITM352_S24_repo/blob/main/WODs/Invoice1/invoice.html
+
+Performing this WOD took a lot of time as through several attempts, I could not meet the DNF cutoff time. In my first attempt, I spent a lot of time trying to figure out how to add HTML to create a table, however I figured out after watching the screencast, to inspect the table on the page instead, and copy the code from there. Then, on my second and third attempts, I found that although changing the names and values (in the 2nd and 3rd steps) was easy, I still struggled with remembering the computations and doing them in a timely manner. On my fourth attempt, I had almost finished the WOD when I realized I could not get my file to open in Live Server, this took the rest of my time, only to find out afterwards that it was because of a silly mistake, I did not insert a “;” to close one of my lines of code! On my fifth attempt I finally finished the WOD.
+
+To prepare for this WOD I completed the readings and screencast lecture, as well as reviewed the instructions for this WOD so I knew what to look for, which is similar to the WOD’s I’ve done before this.
+
+For the next WOD, I will not spend as much time on something I am stuck on, and will instead research either through the readings and screencast or using Google to help me find a solution to my problem!
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
